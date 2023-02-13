@@ -30,7 +30,7 @@ void BlinkLED(void)
 				Mode_1();
 				break;
 			case 2:
-				Mode_2();;
+				Mode_2();
 				break;
 			default:
 				break;
